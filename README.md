@@ -1,2 +1,2 @@
-# Coursera-test
-Coursera test repository
+# Full Stack Developer
+Full Stack Developer Repository
